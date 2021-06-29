@@ -15,8 +15,11 @@ spec:
     - ./components/shuffle-api-component.yaml
     - ./components/wayback-archive-component.yaml
     - ./components/wayback-archive-ingestion-component.yaml
-    - ./components/componentA.yaml
     - ./components/componentB.yaml
     - ./components/componentC.yaml 
     - ./components/componentD.yaml    
+    - ./components/serviceA.yaml
+    - ./components/serviceB.yaml
+    - ./components/serviceC.yaml 
+    - ./components/serviceD.yaml
     
