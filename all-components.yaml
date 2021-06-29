@@ -17,8 +17,7 @@ spec:
     - ./components/wayback-archive-ingestion-component.yaml
     - ./components/componentB.yaml
     - ./components/componentC.yaml 
-    - ./components/componentD.yaml    
-    - ./components/serviceA.yaml
+    - ./components/componentD.yaml   
     - ./components/serviceB.yaml
     - ./components/serviceC.yaml 
     - ./components/serviceD.yaml
