@@ -2,9 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: serviceB
-  description: Component main service
+  description: ServiceB Test
 spec:
   type: service
   lifecycle: production
   owner: team-a
-  system: ComponentD-engagement-portal
+  system: ServiceB-engagement-portal
