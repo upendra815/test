@@ -5,7 +5,6 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./components/artist-lookup-component.yaml
     - ./components/petstore-component.yaml
     - ./components/playback-order-component.yaml
     - ./components/podcast-api-component.yaml
@@ -16,5 +15,8 @@ spec:
     - ./components/shuffle-api-component.yaml
     - ./components/wayback-archive-component.yaml
     - ./components/wayback-archive-ingestion-component.yaml
-    - ./components/wayback-archive-storage-component.yaml
-    - ./components/wayback-search-component.yaml
+    - ./components/componentA.yaml
+    - ./components/componentB.yaml
+    - ./components/componentC.yaml 
+    - ./components/componentD.yaml    
+    
