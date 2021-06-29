@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ComponentA
+  description: Component main website
+spec:
+  type: website
+  lifecycle: production
+  owner: team-a
+  system: ComponentA-engagement-portal
